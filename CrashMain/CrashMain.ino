@@ -12,7 +12,7 @@
 /* vehicle will posess information about the other vehicles involved.     */
 /*                                                                        */
 /* For detailed information, visit the project page at:                   */
-/*          (insert URL here when done)                                   */
+/*          http://www.ryanmorrisonportfolio.com                          */
 /**************************************************************************/
 
 #include <Wire.h>
